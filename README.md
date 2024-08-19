@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou @thewesleygg</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá</h3>
 
-<ul>
-  <li>🌱 Atualmente estou aprendendo <strong>Data Analytics, Power BI, SQL e Python<strong></li>
-  <li>💬 Me pergunte sobre <strong>Power BI, SQL, e Python<strong></li>
-  <li>📫 Você me acha através do e-mail <strong>contact.wesleygoncalves@gmail.com<strong></li>
-</ul>
+- 🌱 Atualmente estou aprendendo **Data Analytics, Power BI, SQL e Python**
+
+- 💬 Me pergunte sobre **Power BI, SQL, e Python**
+
+- 📫 Você me acha através do e-mail **contact.wesleygoncalves@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -42,9 +42,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thewesleygg&show_icons=true&locale=en&layout=compact" alt="Estatísticas do GitHub de thewesleygg" /></p>
 
 
-
-
-<!---
+<!--
 
 - 👋 Hi, I’m @thewesleygg
 - 👀 I’m interested in ...
